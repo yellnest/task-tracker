@@ -1,0 +1,25 @@
+.idea/
+.vscode/
+
+__pycache__/
+
+configdb.sqlite3
+db.sqlite3
+#local.py
+#prod.py
+#
+#*.log
+#*.pot
+#*.py[cod]
+#
+#media/**
+#!media/
+#!media/.gitkeep
+#
+#static/**
+#!static/
+#!static/.gitkeep
+#
+#.env
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
